@@ -1,3 +1,7 @@
 # img
 img/
 *.png
+
+# files
+!.gitignore
+!LICENSE
