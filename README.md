@@ -30,3 +30,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ---
 ## License
 [MIT](https://github.com/ufuk-ceritli/kodluyoruzilkrepo/blob/main/LICENSE)
+
+---
+### **[Patika.dev](https://app.patika.dev/) ekibine teşekkürler.**
