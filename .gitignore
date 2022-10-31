@@ -3,5 +3,5 @@ img/
 *.png
 
 # files
-!.gitignore
-!LICENSE
+.gitignore
+LICENSE
